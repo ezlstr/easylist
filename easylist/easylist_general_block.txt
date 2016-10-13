@@ -360,6 +360,7 @@
 .adforge.
 .adframesrc.
 .adgearpubs.
+.adgoitechnologie.
 .adlabs.$domain=~adlabs.ru
 .admarvel.
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
@@ -1301,6 +1302,7 @@
 /ad_tile/*
 /ad_timer.
 /ad_title_
+/ad_tools/*
 /ad_top.
 /ad_top/*
 /ad_top_
@@ -1409,7 +1411,7 @@
 /adcde.js
 /adcdn.
 /adcell/*
-/adcenter.$script
+/adcenter.$script,domain=~m-m-g.com
 /adcentral.
 /adCfg.
 /adcframe.
@@ -1529,6 +1531,7 @@
 /adfillers/*
 /adflash.
 /adflashes/*
+/adfliction-
 /adfly/*
 /adfolder/*
 /adfootcenter.
@@ -1561,6 +1564,7 @@
 /adframebottom.
 /adframecommon.
 /adframemiddle.
+/adframes/*
 /adframetop.
 /adframewrapper.
 /adfrequencycapping.
@@ -1588,7 +1592,7 @@
 /adgitize-
 /adgooglefull2.
 /adgraphics/*
-/adguard.
+/adguard.$domain=~adguard.com
 /adguru.
 /adhads.
 /adhalfbanner.
@@ -1677,7 +1681,7 @@
 /adlargefooter2.
 /adlayer.
 /adlayer/*
-/adlead.
+/adlead.$domain=~adlead.com
 /adleader.
 /adleaderboardtop.
 /adleft.
@@ -1690,7 +1694,7 @@
 /adlift4_
 /adline.$domain=~adline.co.il
 /adlink-$domain=~adlinktech.com
-/adlink.$domain=~adlinktech.com
+/adlink.$domain=~adlink.guru|~adlinktech.com
 /adlink/*$domain=~adlinktech.com
 /adLink728.
 /adlink_
@@ -1820,7 +1824,7 @@
 /adpeeps/*
 /adperf_
 /adperfdemo.
-/adphoto.$domain=~adphoto.fr
+/adphoto.$domain=~adphoto.fr|~adphoto.pl
 /adpic.
 /adpic/*
 /adpicture.
@@ -1833,6 +1837,7 @@
 /adpix/*
 /adplace/*
 /adplace5_
+/adPlaceholder.
 /adplacement.
 /adplay.
 /adplayer-
@@ -1863,6 +1868,7 @@
 /adreactor/*
 /adreadytractions.
 /adrec.
+/adreclaim-
 /adrectanglebanner?
 /adrefresh-
 /adrefresh.
@@ -2010,6 +2016,7 @@
 /ads/adx/*
 /ads/afc/*
 /ads/aff-
+/ads/article-
 /ads/article.
 /ads/as_header.
 /ads/assets/*
@@ -2255,6 +2262,7 @@
 /ads18.
 /ads2.
 /ads2/*
+/ads20.
 /ads2012/*
 /ads2013/*
 /ads2015/*
@@ -2618,6 +2626,7 @@
 /adsrv.
 /adsrv/*
 /adsrv2/*
+/adsrvmedia/*
 /adss.asp
 /adsscript.
 /adsserv.
@@ -2890,7 +2899,7 @@
 /adverthorisontalfullwidth.
 /advertical.
 /advertise-
-/advertise.$domain=~advertise.apartments.com|~advertise.bingads.microsoft.com|~advertise.isleofskye.com
+/advertise.$domain=~advertise.apartments.com|~advertise.bingads.microsoft.com|~advertise.directoryofillustration.com|~advertise.isleofskye.com|~advertise.medillsb.com
 /advertise/*$domain=~legl.co
 /advertise125x125.
 /advertise_
@@ -2915,7 +2924,7 @@
 /advertisements_
 /AdvertisementShare.
 /advertisementview/*
-/advertiser.$domain=~advertiser.growmobile.com|~panel.rightflow.com
+/advertiser.$domain=~advertiser.adverbid.com|~advertiser.growmobile.com|~panel.rightflow.com
 /advertiser/*$domain=~bingads.microsoft.com|~mobileapptracking.com|~trialpay.com
 /advertisers.$image,script,subdocument,domain=~advertisers.adversense.com|~advertisers.easyweddings.com.au|~panel.rightflow.com
 /advertisers/*$domain=~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com
@@ -3447,6 +3456,7 @@
 /boxad2.
 /boxad3.
 /boxad_
+/brandingAd.
 /breakad_
 /breaking_ad/*
 /brightcovead.
@@ -3748,6 +3758,7 @@
 /display-ads-
 /display-ads/*
 /display.ad.
+/display/ads/*
 /display?ad_
 /display_ad
 /displayad.
@@ -4755,6 +4766,7 @@
 /n4403ad.
 /n_ads/*
 /namediaad.
+/nativead.
 /NativeAdManager.
 /nativeads-
 /nativeads/*
@@ -4897,6 +4909,7 @@
 /pagead/gen_
 /pagead/html/*
 /pagead/js/*
+/pagead/lvz?
 /pagead/osd.
 /pagead2.
 /pagead46.
@@ -4921,6 +4934,7 @@
 /park_html_functions.js
 /park_html_functions_general.js
 /parking_caf_
+/partner-ad-
 /partner_ads/*
 /partner_ads_
 /partnerad.
@@ -5972,7 +5986,6 @@
 /wp-content/uploads/useful_banner_manager_banners/*
 /wp-popup-scheduler/*
 /wp-srv/ad/*
-/wp_ad_250.
 /wp_ad_250_
 /wp_pro_ad_system/*
 /wpads/iframe.
@@ -6055,7 +6068,7 @@
 ://a.ads.
 ://ad.*/jstag^
 ://adcl.$domain=~adcl.com
-://ads.$domain=~ads.route.cc|~ads.sk
+://ads.$domain=~ads.msstate.edu|~ads.nc|~ads.route.cc|~ads.sk
 ://adv.$domain=~adv.ru|~adv.vg|~advids.co|~farapp.com|~forex-tv-online.com|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -6328,6 +6341,7 @@ _ad_teaserarticledetail/
 _ad_template_
 _ad_top_
 _ad_url=
+_ad_utils-
 _ad_vertical.
 _ad_view=
 _ad_widesky.
@@ -6421,6 +6435,7 @@ _ads_index_
 _ads_multi.
 _ads_new.
 _ads_only&
+_ads_partner.
 _ads_reporting.
 _ads_single_
 _ads_targeting.
@@ -6802,6 +6817,7 @@ takeover_banner_
 /adblocker-leader.
 /adblocker.js
 /adBlockerTrack_
+/adblockkiller.
 /adbuddy.
 /adsblocker.
 /anti-adblock/*$~stylesheet
@@ -6812,6 +6828,7 @@ takeover_banner_
 /BlockerBanner/*$xmlhttprequest
 /Disable%2BAdblock.
 /fuckadb.js
+/fuckingadblockplus.
 /ibd-block-adblocker/*
 /no-adblock/*
 /wp-content/plugins/anti-block/*

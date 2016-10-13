@@ -46,8 +46,10 @@
 ||carambo.la^$third-party
 ||care2.com/petitions/$third-party,domain=~thepetitionsite.com
 ||celebjihad.com^$third-party
+||chameleon.ad^$third-party
 ||civiccomputing.com^*=cookie$script,third-party
 ||civicscience.com/widget/jspoll/$third-party
+||clearbit.com^$third-party
 ||cloudfront.net/js/slide.js
 ||cmpmedica.com/ssonp/networkbar.js$third-party
 ||communicatoremail.com^$subdocument,third-party
@@ -108,6 +110,7 @@
 ||getscoutapp.com^$third-party
 ||getsmily.com^$third-party
 ||githubbadge.appspot.com^$third-party
+||go.pardot.com^$subdocument,third-party
 ||google.com/uds/?file=orkut&
 ||goroost.com^$third-party
 ||gravity.com^$third-party
@@ -141,6 +144,7 @@
 ||knowd.com^$third-party
 ||leadacity.net^$third-party
 ||leadpages.co^$third-party
+||letreach.com^$third-party
 ||letsgetsocialnow.com^$third-party
 ||ligatus.com^$third-party
 ||linkwithin.com^$third-party
@@ -163,6 +167,7 @@
 ||nrcdn.com/custom-script/$third-party
 ||nrelate.com^$third-party
 ||odb.outbrain.com^$third-party
+||onesignal.com^$third-party
 ||optimonk.com^$third-party
 ||optinmonster.com^$third-party
 ||optkit.com^$third-party
@@ -182,9 +187,10 @@
 ||pubexchange.com^$third-party
 ||publisher.monster.com^$third-party
 ||punchtab.com^$third-party
+||push.connect.digital^$third-party
 ||pushcrew.com^$third-party
+||pushengage.com^$third-party
 ||qeryz.com^$third-party
-||qmerce.com^$third-party
 ||qrius.me^$third-party
 ||quote.fm/services/button/$third-party
 ||r42tag.com^$third-party
@@ -203,6 +209,7 @@
 ||scoutle.com^$third-party
 ||scribol.com^$third-party
 ||scripts.mailfire.io^$third-party
+||sendpulse.com^$third-party
 ||senzari.com^$third-party
 ||services.webklipper.com/geoip/$third-party
 ||sharenice.org^$third-party
@@ -218,6 +225,7 @@
 ||socialtwist.com^$third-party
 ||socialvibe.com^$third-party
 ||sodahead.com^$third-party
+||sphere.outbrain.com^$third-party
 ||statictapcdn-a.akamaihd.net^$third-party
 ||storystack.com^$third-party
 ||styld-by.com^$third-party
@@ -258,6 +266,7 @@
 ||widget.crowdignite.com^$third-party
 ||widget.firefeeder.com^$third-party
 ||widget.pushbullet.com^$third-party
+||widget.trustpilot.com^$third-party
 ||widgets.awe.sm^$third-party
 ||widgets.backtype.com^$third-party
 ||widgets.dzone.com^$third-party

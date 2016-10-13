@@ -24,8 +24,10 @@
 -scroll-tracker.js
 -seo-tracker.
 -social-tracking.
+-stat/collect/
 -tracking-pixel.
 -tracking.js?
+-trackingScript.
 -xtcore.js
 .AdmPixelsCacheController?
 .asis?Log=
@@ -151,6 +153,7 @@
 .net/trck/
 .net/trk.php?
 .net/vtrack|
+.net/z.gif?
 .ntpagetag.
 .nz/t.gif?
 .org/?js|
@@ -164,6 +167,7 @@
 .PixelNedstatStatistic/
 .pt/n.gif?
 .pt/t.gif?
+.ru/0.gif?
 .sg/t.gif?
 .sharecounter.$third-party
 .sitecatalyst.js
@@ -180,6 +184,7 @@
 .tv/t.png?
 .uk/o.gif?
 .uk/t.gif?
+.uk/track?
 .uk/traffic/?
 .usertracking_script.js
 .vn/0.gif?
@@ -189,12 +194,14 @@
 /!crd_prm!.
 //feedproxy.*/~r/*$image
 /0pixel.php?
+/1x1.gif?browser
 /1x1.gif?tracking
 /1x1.gif?utm
 /1x1_akamai.gif
 /1x1_imp.gif?
 /1x1p.gif?
 /1x1tracker.
+/2x2.gif?$image
 /?&pid=*&subid=$image
 /?com=visit*=record&
 /?dm=*&blogid=$script
@@ -323,7 +330,6 @@
 /amazon-affiliate-
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
-/amp-analytics-
 /amplitude-*.js$script
 /analiz.php3?
 /AnalTrack.js
@@ -365,6 +371,7 @@
 /analytics/mouse_
 /analytics/report/*
 /analytics/socialTracking.js
+/analytics/tagx-
 /analytics/track-
 /analytics/track?
 /analytics/tracker.
@@ -372,6 +379,7 @@
 /Analytics/Tracking.
 /analytics/tracking/*
 /Analytics/Visitor.
+/analytics/yell-
 /analytics3.
 /analytics?body=
 /analytics?http_referer
@@ -410,6 +418,7 @@
 /api/*/visitor?
 /api/0/stats
 /api/analytics/*
+/api/pageview?
 /api/tracking/*
 /api/x.gif?
 /apilog?
@@ -446,6 +455,7 @@
 /audience_science.
 /audience_science_
 /audienceScience.
+/audiweb.js
 /audsci.js
 /autotag.
 /AutoTracker.js
@@ -489,6 +499,7 @@
 /baynoteobserver/*
 /bcn.gif?
 /bcn?
+/beacon-cookie.
 /beacon.cgi?
 /beacon.gif?
 /beacon.js
@@ -722,6 +733,7 @@
 /connect_counter.js
 /contador.gif?
 /containertag?
+/contentiq.js
 /ContentTrackingCall.
 /control/tracking.php?
 /convertro.js
@@ -901,6 +913,7 @@
 /emos2-$script
 /emos2.js$~xmlhttprequest
 /emstrack.
+/entry_stats?
 /envoy.sb?sbaid
 /epf_v1_95.js
 /error/js/log?
@@ -912,6 +925,7 @@
 /etracker/*
 /etrackercode.
 /eu-survey.js
+/ev/co/*?eventid=
 /event-log/*
 /event-report?*&uid=
 /event-tracking.js
@@ -1037,6 +1051,7 @@
 /gaclicktracking.
 /gaCustom.
 /gadsfuncs.
+/gaEventTracking.
 /GAFOAWrapper.swf?
 /GAInit.js|
 /galinks-
@@ -1092,6 +1107,7 @@
 /gifbanner?
 /gifstats.
 /glbltrackjs.
+/global-analytics.js
 /global/ga.js?
 /globalpagetracking.js
 /gmasst.gif?guid=
@@ -1451,6 +1467,7 @@
 /logLoad/?
 /LogMediaClick?
 /LogPage.aspx?
+/logprogress.
 /logpstatus.
 /logpv.aspx?
 /LogRecorder.
@@ -1511,6 +1528,7 @@
 /mint8/?
 /mintstats/?js
 /mistats/*
+/mixpanel-*.js
 /mixpanel-measurement.
 /mixpanel.
 /mixpanel_beacon.
@@ -1528,6 +1546,7 @@
 /mobileanalytics.
 /modoweb-tracking/*
 /moduleTracker.
+/momentum-tracking/*
 /mongoose.fp.js
 /monitus.js
 /morega.js
@@ -1537,6 +1556,7 @@
 /mpulse.min.js
 /msftaudience.
 /mstartracking/*
+/mstats.
 /mstrack/*
 /mtrack.nl/js/*
 /mtracking.
@@ -1555,6 +1575,8 @@
 /naveggQry-
 /NavMultiTracking.
 /naytev.min.js
+/nbc-stats/*
+/ncj-pixel.js
 /ncp/checkBrowser?
 /nedstat.
 /neilson.js
@@ -1632,6 +1654,8 @@
 /onestat.js
 /onlinecount.php
 /onsitegeo.
+/opdc.gif?
+/opdc.js
 /open/log/*
 /opentag-
 /opentag/*
@@ -1698,6 +1722,7 @@
 /pageviews-counter-
 /pageviews/*$domain=~tools.wmflabs.org
 /pageviews?token=
+/pageviews_counter.
 /PageviewsTracker.
 /pap.swf?
 /partner/transparent_pixel-$image
@@ -1705,7 +1730,9 @@
 /PBSTrackingPlugIn.
 /pcookie_get_key
 /pcount.asp
+/Peermap/Log/*
 /performance.fcgi?
+/performance_timing/log?
 /permalink-tracker.html?
 /pgtracking.
 /pgtrackingV3.
@@ -1761,6 +1788,7 @@
 /pixel_iframe.
 /pixel_track.
 /pixel_tracking.
+/pixelappcollector.
 /pixelcounter.
 /pixelframe/*
 /PixelImg.asp
@@ -1776,6 +1804,7 @@
 /pixeltracker.
 /PixelTracking.
 /pixeltracking/*
+/pixiedust-build.js
 /pixLogVisit.
 /pixy.gif?
 /pladtrack.
@@ -1825,6 +1854,7 @@
 /pubimppixel/*
 /public/visitor.json?
 /public/visitor/create?
+/pubstats.
 /pv.gif?url
 /pv.txt?
 /pvcount.
@@ -1967,6 +1997,7 @@
 /scripts/ga.js
 /scripts/hbx.js
 /scripts/log.
+/scripts/statistics/*
 /scripts/stats/*
 /scripts/xiti/*
 /sctracker.
@@ -2014,6 +2045,7 @@
 /setTDUID.do?
 /shareCounts.
 /shareTrackClient.
+/sherlock.gif?
 /shinystat.
 /shinystat_
 /shopify_stats.js
@@ -2124,8 +2156,12 @@
 /statistics.asp?
 /statistics.aspx?profile
 /statistics.js?
+/statistics/fab.
+/statistics/ga.
 /statistics/getcook.php?
+/statistics/imr.
 /statistics/logging/*
+/statistics/metrica.
 /statistics?eventType=
 /statlogger.
 /stats-js.cgi?
@@ -2155,10 +2191,12 @@
 /stats/mixpanel-
 /stats/page_view_
 /stats/pgview.
+/stats/ping?
 /stats/record.php?
 /stats/track.asp?
 /stats/tracker.gif?
 /stats/tracker.js
+/stats/welcome.php?
 /stats?aid=
 /stats?blog_
 /stats?callback=
@@ -2249,6 +2287,7 @@
 /tpix.gif?
 /tPx.gif?
 /tr.gif?
+/tr/p.gif?
 /track-compiled.js
 /track-referrals.js
 /track.ads/*
@@ -2370,7 +2409,9 @@
 /tracking/beacon/?
 /tracking/clicks
 /tracking/create?
+/tracking/csp?
 /tracking/epixels.
+/tracking/fingerprint/*
 /tracking/impression/*
 /tracking/index.
 /tracking/log.php?
@@ -2380,6 +2421,7 @@
 /tracking/pixel/*
 /tracking/pixel_
 /tracking/pixels.
+/tracking/referrer?
 /tracking/simplified_
 /tracking/tag_commander.php?
 /tracking/track.jsp?
@@ -2444,6 +2486,7 @@
 /trackr.swf
 /trackstats?
 /tracksubprop.
+/trackTimings.gif?
 /trackuity.
 /TrackUser?callback=
 /TrackView/?track
@@ -2580,6 +2623,8 @@
 /visitor/identity?
 /visitor/index.php?*referrer$image
 /VisitorAPI.js
+/visitorCookie.
+/VisitorIdentification.js
 /visitortracker.pl?
 /visits_contor.
 /VisitTracking?
@@ -2733,6 +2778,8 @@
 /yalst/pixel*.php?
 /yandex-metrika.js
 /ybn_pixel/*
+/yell-analytics-
+/yell-analytics.
 /ystat.do
 /ystat.js
 /YuduStatistics/*
@@ -2800,6 +2847,7 @@ _247seotracking.
 _adcenterconversion.
 _Analytics.js?
 _analytics.php?
+_artcl_log/
 _astatspro/
 _audience_pixel.
 _baynote.

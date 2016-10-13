@@ -25,6 +25,7 @@
 ||ad-emea.doubleclick.net^$popup,third-party
 ||ad-feeds.com^$popup,third-party
 ||ad-maven.com^$popup,third-party
+||ad.doubleclick.net/ddm/trackclk/$popup,third-party
 ||ad131m.com^$popup,third-party
 ||ad2387.com^$popup,third-party
 ||ad2games.com^$popup,third-party
@@ -33,6 +34,7 @@
 ||adboost.it^$popup,third-party
 ||adcash.com^$popup,third-party
 ||adcdnx.com^$popup,third-party
+||adexc.net^$popup,third-party
 ||adexchangeprediction.com^$popup,third-party
 ||adfarm.mediaplex.com^$popup,third-party
 ||adfclick1.com^$popup,third-party
@@ -45,6 +47,7 @@
 ||adk2.net^$popup,third-party
 ||adk2x.com^$popup,third-party
 ||adlure.net^$popup,third-party
+||admedit.net^$popup,third-party
 ||adnanny.com^$popup,third-party
 ||adnetworkperformance.com^$popup,third-party
 ||adnium.com^$popup,third-party
@@ -55,6 +58,7 @@
 ||ads.sexier.com^$popup,third-party
 ||adscpm.net^$popup,third-party
 ||adserverplus.com^$popup,third-party
+||adshell.net^$popup,third-party
 ||adshostnet.com^$popup,third-party
 ||adsmarket.com^$popup,third-party
 ||adsupply.com^$popup,third-party
@@ -73,7 +77,6 @@
 ||ajkrls.com^$popup,third-party
 ||algocashmaster.com^$popup,third-party
 ||algocashmaster.net^$popup,third-party
-||allslotscasino.com^$popup,third-party
 ||allsporttv.com^$popup,third-party
 ||alpinedrct.com^$popup,third-party
 ||alternads.info^$popup,third-party
@@ -91,6 +94,7 @@
 ||baypops.com^$popup,third-party
 ||bbredir-ac-100.com^$popup,third-party
 ||bbuni.com^$popup,third-party
+||bcvcmedia.com^$popup,third-party
 ||becoquin.com^$popup,third-party
 ||becoquins.net^$popup,third-party
 ||belwrite.com^$popup,third-party
@@ -101,6 +105,7 @@
 ||bestproducttesters.com^$popup,third-party
 ||bidsystem.com^$popup,third-party
 ||bidverdrd.com^$popup,third-party
+||bidverdrs.com^$popup,third-party
 ||bidvertiser.com^$popup,third-party
 ||bighot.ru^$popup,third-party
 ||binaryoptionsgame.com^$popup,third-party
@@ -137,6 +142,7 @@
 ||com-online.website^$popup,third-party
 ||computersoftwarelive.com^$popup,third-party
 ||console-domain.link^$popup,third-party
+||consolepprofile.com^$popup,third-party
 ||content-offer-app.site^$popup,third-party
 ||content.ad^$popup,third-party
 ||contentabc.com^$popup,third-party
@@ -147,6 +153,7 @@
 ||cpvadvertise.com^$popup,third-party
 ||crazyad.net^$popup,third-party
 ||day-multi.work^$popup,third-party
+||deliverydom.com^$popup,third-party
 ||delta-boa.com^$popup,third-party
 ||denza.pro^$popup,third-party
 ||develop-forevery4u.com^$popup,third-party
@@ -155,6 +162,7 @@
 ||distantstat.com^$popup,third-party
 ||disturbqualifyplane.info^$popup,third-party
 ||dntrax.com^$popup,third-party
+||dntrx.com^$popup,third-party
 ||dojerena.com^$popup,third-party
 ||doublepimp.com^$popup,third-party
 ||down1oads.com^$popup,third-party
@@ -166,11 +174,13 @@
 ||easydownloadnow.com^$popup,third-party
 ||easykits.org^$popup,third-party
 ||ebzkswbs78.com^$popup,third-party
+||elite-sex-finder.com^$popup,third-party
 ||epicgameads.com^$popup,third-party
 ||eroanalysis.com^$popup,third-party
 ||euromillionairesystem.me^$popup,third-party
 ||ewebse.com^$popup,third-party
 ||exoclick.com^$popup,third-party
+||explainidentifycoding.info^$popup,third-party
 ||ezdownloadpro.info^$popup,third-party
 ||f-hookups.com^$popup,third-party
 ||f-questionnaire.com^$popup,third-party
@@ -188,12 +198,15 @@
 ||firstclass-download.com^$popup,third-party
 ||firstmediahub.com^$popup,third-party
 ||fmdwbsfxf0.com^$popup,third-party
+||fonderreader.info^$popup
 ||foxsnews.net^$popup,third-party
+||friendlyduck.com^$popup,third-party
 ||frtya.com^$popup,third-party
 ||frtyb.com^$popup,third-party
 ||frtye.com^$popup,third-party
 ||g05.info^$popup,third-party
 ||ganja.com^$popup,third-party
+||geranew.info^$popup,third-party
 ||getmyads.com^$popup,third-party
 ||gib-gib-la.com^$popup,third-party
 ||gibsonvillainousweatherstrip.com^$popup,third-party
@@ -213,8 +226,10 @@
 ||highcpms.com^$popup,third-party
 ||hilltopads.net^$popup,third-party
 ||hipersushiads.com^$popup,third-party
+||hlpnowp-c.com^$popup,third-party
 ||homecareerforyou1.info^$popup,third-party
 ||hornygirlsexposed.com^$popup,third-party
+||hotchatdate.com^$popup,third-party
 ||hotchatdirect.com^$popup,third-party
 ||hstpnetwork.com^$popup,third-party
 ||htmlhubing.xyz^$popup,third-party
@@ -225,9 +240,13 @@
 ||inbinaryoption.com^$popup,third-party
 ||indianmasala.com^$popup,third-party,domain=masalaboard.com
 ||indianweeklynews.com^$popup,third-party
+||infra.systems^$popup,third-party
 ||insta-cash.net^$popup,third-party
+||installcdnfile.com^$popup,third-party
+||instanceyou.info^$popup,third-party
 ||instantpaydaynetwork.com^$popup,third-party
 ||integral-marketing.com^$popup,third-party
+||internalredirect.site^$popup,third-party
 ||interner-magaziin.ru^$popup,third-party
 ||iwanttodeliver.com^$popup,third-party
 ||jdtracker.com^$popup,third-party
@@ -242,6 +261,7 @@
 ||legisland.net^$popup,third-party
 ||letsadvertisetogether.com^$popup,third-party
 ||letshareus.com^$popup,third-party
+||letzonke.com^$popup,third-party
 ||ligatus.com^$popup,third-party
 ||liveadexchanger.com^$popup,third-party
 ||livechatflirt.com^$popup,third-party
@@ -259,6 +279,7 @@
 ||mdn2015x1.com^$popup,third-party
 ||media-app.com^$popup,third-party
 ||media-servers.net^$popup,third-party
+||media-serving.com^$popup,third-party
 ||mediaseeding.com^$popup,third-party
 ||meetgoodgirls.com^$popup,third-party
 ||meetsexygirls.org^$popup,third-party
@@ -269,6 +290,7 @@
 ||mktmobi.com^$popup,third-party
 ||mmo123.co^$popup,third-party
 ||mobileraffles.com^$popup,third-party
+||mobsterbird.info^$popup,third-party
 ||moneytec.com^$popup,third-party
 ||mxsads.com^$popup,third-party
 ||my-layer.net^$popup,third-party
@@ -292,6 +314,7 @@
 ||oratosaeron.com^$popup,third-party
 ||overturs.com^$popup,third-party
 ||oxybe.com^$popup,third-party
+||padsdel.com^$popup,third-party
 ||partypills.org^$popup,third-party
 ||pdfcomplete.com^$popup,third-party
 ||perfcreatives.com^$popup,third-party
@@ -302,6 +325,7 @@
 ||playboymethod.com^$popup,third-party
 ||plexop.net^$popup,third-party
 ||plsdrct2.me^$popup,third-party
+||pocofh.com^$popup
 ||pointclicktrack.com^$popup,third-party
 ||pointroll.com^$popup,third-party
 ||pomofon.ru^$popup,third-party
@@ -327,6 +351,7 @@
 ||pulse360.com^$popup,third-party
 ||pureadexchange.com^$popup,third-party
 ||pwrads.net^$popup,third-party
+||qertewrt.com^$popup,third-party
 ||qrlsx.com^$popup,third-party
 ||qswotrk.com^$popup,third-party
 ||quickcash-system.com^$popup,third-party
@@ -334,18 +359,22 @@
 ||ratari.ru^$popup,third-party
 ||rbxtrk.com^$popup,third-party
 ||rdsrv.com^$popup,third-party
+||reallifecam.com^$popup,third-party
 ||redirections.site^$popup,third-party
 ||rehok.km.ua^$popup,third-party
+||rencontreanna.com^$popup,third-party
 ||retainguaninefluorite.info^$popup,third-party
 ||retkow.com^$popup,third-party
 ||rgadvert.com^$popup,third-party
 ||rikhov.ru^$popup,third-party
 ||ringtonematcher.com^$popup,third-party
 ||ringtonepartner.com^$popup,third-party
+||riowrite.com^$popup,third-party
 ||rm-tracker.com^$popup,third-party
 ||ronetu.ru^$popup,third-party
 ||roulettebotplus.com^$popup,third-party
 ||rubikon6.if.ua^$popup,third-party
+||ruckusschroederraspberry.com^$popup,third-party
 ||sasontnwc.net^$popup,~third-party
 ||secureintl.com^$popup,third-party
 ||seethisinaction.com^$popup,third-party
@@ -354,6 +383,7 @@
 ||servingclks.com^$popup,third-party
 ||servingit.co^$popup,third-party
 ||sexitnow.com^$popup,third-party
+||sierra-fox.com^$popup,third-party
 ||silstavo.com^$popup,third-party
 ||simpleinternetupdate.com^$popup,third-party
 ||simpletds.net^$popup,third-party
@@ -367,6 +397,7 @@
 ||smutty.com^$popup,third-party
 ||softwarepiset.com^$popup,third-party
 ||sparkstudios.com^$popup,third-party
+||speednetwork14.com^$popup,third-party
 ||speednetwork6.com^$popup,third-party
 ||spotscenered.info^$popup,third-party
 ||srv-ad.com^$popup,third-party
@@ -375,6 +406,7 @@
 ||stabletrappeddevote.info^$popup,third-party
 ||statsmobi.com^$popup,third-party
 ||statstrackeronline.com^$popup,third-party
+||superadexchange.com^$popup,third-party
 ||surveyend.com^$popup,third-party
 ||surveysforgifts.org^$popup,third-party
 ||surveyspaid.com^$popup,third-party
@@ -382,6 +414,7 @@
 ||swadvertising.org^$popup,third-party
 ||symkashop.ru^$popup,third-party
 ||syncedvision.com^$popup,third-party
+||targetctracker.com^$popup,third-party
 ||tatami-solutions.com^$popup,third-party
 ||td563.com^$popup,third-party
 ||techcloudtrk.com^$popup,third-party
@@ -394,20 +427,23 @@
 ||thepornsurvey.com^$popup,third-party
 ||therewardsurvey.com^$popup,third-party
 ||tjoomo.com^$popup,third-party
+||tmdn2015x9.com^$popup,third-party
 ||tonefuse.com^$popup,third-party
 ||topshelftraffic.com^$popup,third-party
 ||toroadvertisingmedia.com^$popup,third-party
+||torrentcacher.info^$popup,third-party
 ||totaladperformance.com^$popup,third-party
 ||totrack.ru^$popup,third-party
 ||tracki112.com^$popup,third-party
-||trafficbroker.com^$popup,third-party
 ||trafficforce.com^$popup,third-party
 ||traffichaus.com^$popup,third-party
 ||trafficinvest.com^$popup,third-party
+||traktrafficflow.com^$popup,third-party
 ||trend-trader.cc^$popup,third-party
 ||trklnks.com^$popup,third-party
 ||trkpointcloud.com^$popup,third-party
 ||trw12.com^$popup,third-party
+||turbofileindir.com^$popup,third-party
 ||tutvp.com^$popup,third-party
 ||tvas-a.pw^$popup,third-party
 ||tvas-b.pw^$popup,third-party
@@ -424,6 +460,8 @@
 ||w4statistics.info^$popup,third-party
 ||waframedia5.com^$popup,third-party
 ||wahoha.com^$popup,third-party
+||wardparser.info^$popup,third-party
+||watchformytechstuff.com^$popup,third-party
 ||wbsadsdel.com^$popup,third-party
 ||wbsadsdel2.com^$popup,third-party
 ||weareheard.org^$popup,third-party
@@ -434,6 +472,7 @@
 ||whoads.net^$popup,third-party
 ||wigetmedia.com^$popup,third-party
 ||windgetbook.info^$popup,third-party
+||winhugebonus.com^$popup,third-party
 ||wonderlandads.com^$popup,third-party
 ||worldrewardcenter.net^$popup,third-party
 ||wwwpromoter.com^$popup,third-party

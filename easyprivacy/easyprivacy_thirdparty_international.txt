@@ -8,6 +8,7 @@
 ||analytics.cnd-motionmedia.de^$third-party
 ||analytics.gameforge.de^
 ||analytics.loop-cloud.de^$third-party
+||analytics.praetor.im^$third-party
 ||analytics.unister-gmbh.de^
 ||andyhoppe.com/count/
 ||asci.freenet.de^
@@ -182,6 +183,7 @@
 ||free.fr/cgi-bin/wwwcount.cgi?
 ||free.fr/services/compteur_page.php?
 ||i-services.net^*/compteur.php?
+||lepoint-stat.sdv.fr^
 ||linguee.fr/white_pixel.gif
 ||live-medias.net/button.php?$third-party
 ||m6web.fr/statsd/
@@ -256,6 +258,9 @@
 ||etwun.com:8080/counter.php?
 ||haostat.qihoo.com^
 ||ifengimg.com/sta_collection.*.js
+||imp.ad-plus.cn^
+||imp.go.sohu.com^
+||imp.optaim.com^
 ||js.letvcdn.com/js/*/stats/
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
@@ -324,6 +329,7 @@
 ||walla.co.il/stats/
 ! Hungarian
 ||gpr.hu/pr.pr?
+||onet.pl/eclk/
 ||pagerank.g-easy.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
@@ -433,6 +439,7 @@
 ||stats.asp24.pl^
 ||stats.media.onet.pl^
 ||statystyki.panelek.com^
+||tracker.advisable.pl^
 ||tracking.novem.pl^
 ||wymiana.org/stat/
 ! Portuguese
@@ -454,6 +461,7 @@
 ||1in.kz/counter?
 ||1l-hit.mail.ru^
 ||7host.ru/tr/*?r=$third-party
+||a.tovarro.com^
 ||adlik.akavita.com/bin/lik?
 ||agates.ru/counters/
 ||all-top.ru/cgi-bin/topcount.cgi?
@@ -477,6 +485,7 @@
 ||counter.photopulse.ru^
 ||counter.pr-cy.ru^
 ||counter.rian.ru^
+||counter.star.lg.ua^
 ||counter.tovarro.com^
 ||counter.wapstart.ru^
 ||dp.ru/counter.gif?
@@ -486,6 +495,7 @@
 ||gnezdo.ru/cgi-bin/$third-party
 ||hubrus.com^$third-party
 ||ifolder.ru/stat/?
+||imgsmail.ru/gstat?
 ||infopolit.com/counter/
 ||inforotor.net/rotor/
 ||izhevskinfo.ru/count/

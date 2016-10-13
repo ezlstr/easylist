@@ -749,9 +749,11 @@
 /icn-twitter-
 /icn-twitter.
 /icn-youtube.
+/icn_facebook_
 /icn_googe_
 /icn_google_
 /icn_pinterest_
+/icn_twitter_
 /icn_youtube_
 /ico-delicious.
 /ico-digg.
@@ -971,7 +973,6 @@
 /images/*/delicious.jpg
 /images/*/social_
 /images/*_share.png
-/images/*facebook-$domain=~facebook.com
 /images/*facebook.gif$domain=~facebook.com
 /images/*facebook.jpg$domain=~facebook.com
 /images/*facebook.png$domain=~facebook.com
@@ -1122,6 +1123,7 @@
 /LinkedIn.29x
 /linkedin.gif|$domain=~linkedin.com
 /linkedin.png
+/linkedin.svg
 /linkedin1.
 /linkedin2.png|$domain=~linkedin.com
 /linkedin_16.
@@ -1240,6 +1242,7 @@
 /pinterest_icon-
 /pinterest_icon.
 /pinterest_pin.
+/pinterest_tag.
 /pinterestbutton.
 /PinterestIcon.
 /pinterestsquare.
@@ -1423,12 +1426,15 @@
 /share_link/*
 /share_linkedin_
 /share_myspace.
+/share_pinterest-
+/share_reddit-
 /share_rss.
 /share_save_
 /share_sprite.
 /share_sprite_
 /share_tf-
 /share_toolbar.
+/share_tumblr-
 /share_twitter.
 /share_twitter_
 /shareaholic.js
@@ -1586,6 +1592,7 @@
 /social-profiles-widget/*$~stylesheet
 /social-proof-
 /social-search-
+/social-share-
 /social-sharing-
 /social-sharing.
 /social-signs.
